@@ -36,7 +36,7 @@ Scripts for Lin, Y., van der Bijl, W., Mank, J. E. Sexual selection maintains an
    sh 06.cal_inv_age.sh
    ```
    
-7. Simulation, check the [`./simulation/`](./simulation/) folder for details.
+7. Simulation, check the [`simulation/`](./simulation/) folder for details.
 
 8. Permutation test
    ```
