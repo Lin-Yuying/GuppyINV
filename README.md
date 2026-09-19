@@ -2,6 +2,7 @@
 
 Scripts for Lin, Y., van der Bijl, W., Mank, J. E. Sexual selection maintains ancient structural polymorphisms across natural populations. 2026, PLOS Biology, in press
 
+
 1. Genotyping and SNP filtering with [female reference genome](http://uswest.ensembl.org/Poecilia_reticulata/Info/Index) using [BWA MEM](https://github.com/lh3/bwa), [BCFtools](https://github.com/samtools/bcftools) and [VCFtools](https://vcftools.github.io/index.html)
    ```
    sh 01.genotyping.sh
