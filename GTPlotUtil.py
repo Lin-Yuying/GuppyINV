@@ -5,7 +5,7 @@ import random
 from hmmlearn import hmm
 import pyreadr,random,time,h5py,gzip,sys,os
 import allel; 
-print('scikit-allel', allel.__version__)
+# print('scikit-allel', allel.__version__)
 import numpy as np
 import pandas as pd
 from hmmlearn import hmm
