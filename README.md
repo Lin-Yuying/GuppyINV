@@ -36,11 +36,11 @@ Scripts for Lin, Y., van der Bijl, W., Mank, J. E. Sexual selection maintains an
    sh 06.cal_inv_age.sh
    ```
    
-7. Simulation, check the [`simulation/`](./simulation/) folder for details.
+7. Simulation, check the [`07.simulation`](./07.simulation/) folder for details.
 
 8. Permutation test
    ```
-   sh 07.run_perm_test.sh
+   sh 08.run_perm_test.sh
    ```
 9. Breakpoint verification using [Longranger](https://github.com/10XGenomics/longranger) and Loupe 2.1.2
 
