@@ -39,7 +39,7 @@ Scripts for Lin, Y., van der Bijl, W., Mank, J. E. Sexual selection maintains an
 8. Simulation, check the ./simulation folder for details.
 9. Permutation test
    ```
-   sh run_perm_test.sh
+   sh 07.run_perm_test.sh
    ```
 10. Breakpoint verification using [Longranger](https://github.com/10XGenomics/longranger) and Loupe 2.1.2
 11. Plotting, see details in Fig*.ipynb or SuppleFig*.ipynb.
