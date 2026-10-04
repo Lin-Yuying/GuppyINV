@@ -45,4 +45,4 @@ Scripts for Lin, Y., van der Bijl, W., Mank, J. E. Ancient inversion polymorphis
    
 9. Breakpoint verification using [Longranger](https://github.com/10XGenomics/longranger) and Loupe 2.1.2
 
-10. Plotting, see details in Fig*.ipynb or SuppleFig*.ipynb.
+10. Plotting, see details in Fig*.ipynb and SuppleFig*.ipynb.
